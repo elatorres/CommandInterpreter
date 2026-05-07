@@ -1,0 +1,14 @@
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/bin/Debug/net8.0/CommandInterpreter
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/bin/Debug/net8.0/CommandInterpreter.deps.json
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/bin/Debug/net8.0/CommandInterpreter.runtimeconfig.json
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/bin/Debug/net8.0/CommandInterpreter.dll
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/bin/Debug/net8.0/CommandInterpreter.pdb
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/CommandInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/CommandInterpreter.AssemblyInfoInputs.cache
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/CommandInterpreter.AssemblyInfo.cs
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/CommandInterpreter.csproj.CoreCompileInputs.cache
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/CommandInterpreter.dll
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/refint/CommandInterpreter.dll
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/CommandInterpreter.pdb
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/CommandInterpreter.genruntimeconfig.cache
+/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/Debug/net8.0/ref/CommandInterpreter.dll

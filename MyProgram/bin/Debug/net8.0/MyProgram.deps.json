@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyProgram/1.0.0": {
+        "dependencies": {
+          "CommandInterpreter": "1.0.0"
+        },
+        "runtime": {
+          "MyProgram.dll": {}
+        }
+      },
+      "CommandInterpreter/1.0.0": {
+        "runtime": {
+          "CommandInterpreter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandInterpreter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/enrique/RiderProjects/CommandInterpreter/MyProgram/MyProgram.csproj": {}
+  },
+  "projects": {
+    "/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/CommandInterpreter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/CommandInterpreter.csproj",
+        "projectName": "CommandInterpreter",
+        "projectPath": "/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/CommandInterpreter.csproj",
+        "packagesPath": "/home/enrique/.nuget/packages/",
+        "outputPath": "/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/enrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/enrique/RiderProjects/CommandInterpreter/MyProgram/MyProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/enrique/RiderProjects/CommandInterpreter/MyProgram/MyProgram.csproj",
+        "projectName": "MyProgram",
+        "projectPath": "/home/enrique/RiderProjects/CommandInterpreter/MyProgram/MyProgram.csproj",
+        "packagesPath": "/home/enrique/.nuget/packages/",
+        "outputPath": "/home/enrique/RiderProjects/CommandInterpreter/MyProgram/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/enrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/CommandInterpreter.csproj": {
+                "projectPath": "/home/enrique/RiderProjects/CommandInterpreter/CommandInterpreter/CommandInterpreter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
